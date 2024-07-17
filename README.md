@@ -1,2 +1,3 @@
-# Mini-Projeto-JavaScript-
-mini projetos para aplicação do aprendizado em JavaScript
+# Primeiro projeto HTML
+projetos paraprendizagem de HTML
+
